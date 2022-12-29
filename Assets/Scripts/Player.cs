@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    [SerializeField] Animator animator;
     private BoxCollider2D boxCollider;
     private Vector3 moveDelta;
     private float x = 0;
@@ -47,6 +48,14 @@ public class Player : MonoBehaviour
             transform.Translate(moveDelta.x * Time.deltaTime, 0, 0);
         }
 
+        if(moveDelta.x > 0 || moveDelta.x < 0 || moveDelta.y > 0 || moveDelta.y < 0)
+        {
+            animator.SetFloat("Speed", 1);
+        }
+        else
+        {
+            animator.SetFloat("Speed", 0);
+        }
         
     }
 }
