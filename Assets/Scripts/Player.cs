@@ -4,15 +4,32 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private BoxCollider2D BoxCollider;
+    private Vector3 moveDelta;
+    private float x = 0;
+    private float y = 0;
+
+    private void Start()
     {
-        
+        BoxCollider = GetComponent<BoxCollider2D>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        
+        x = Input.GetAxisRaw("Horizontal");
+        y = Input.GetAxisRaw("Vertical");
+
+        // Reset MoveDelta
+        moveDelta = new Vector3(x, y, 0);
+
+        // Swap which direction the sprite is facing based on movement
+        if(moveDelta.x > 0) {
+            transform.localScale = Vector3.one;
+        } else if(moveDelta.x < 0) {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
+
+        // Moving the sprite
+        transform.Translate(moveDelta * Time.deltaTime);
     }
 }
