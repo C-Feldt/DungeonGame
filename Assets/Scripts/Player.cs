@@ -50,11 +50,11 @@ public class Player : MonoBehaviour
 
         if(moveDelta.x > 0 || moveDelta.x < 0 || moveDelta.y > 0 || moveDelta.y < 0)
         {
-            animator.SetFloat("Speed", 1);
+            animator.SetBool("IsRunning?", true);
         }
         else
         {
-            animator.SetFloat("Speed", 0);
+            animator.SetBool("IsRunning?", false);
         }
         
     }
