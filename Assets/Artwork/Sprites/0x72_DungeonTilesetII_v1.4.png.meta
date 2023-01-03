@@ -594,7 +594,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_23
+      name: weapon_dagger
       rect:
         serializedVersion: 2
         x: 288
@@ -610,69 +610,6 @@ TextureImporter:
       bones: []
       spriteID: 8efdce933b14e6643941d0de0915d0b8
       internalID: 490031276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_24
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 480
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b84153c3cf9efc744be9e5a629157446
-      internalID: 577293205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_25
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 480
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d551e022bd876a74ba8a16d440301ee1
-      internalID: 128978969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_26
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 480
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e37c8181921baa4f9dc5b4a6408cd8d
-      internalID: 826027260
       vertices: []
       indices: 
       edges: []
@@ -972,34 +909,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_50
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 464
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7797786ecaa958246878d6928395d34e
-      internalID: 426361185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_51
+      name: weapon_shortsword_1
       rect:
         serializedVersion: 2
         x: 304
         y: 464
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,13 +930,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_52
+      name: weapon_shortsword_2
       rect:
         serializedVersion: 2
         x: 320
         y: 464
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,13 +951,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_53
+      name: weapon_shortsword_3
       rect:
         serializedVersion: 2
         x: 336
         y: 464
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1539,90 +1455,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_77
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c9c5a4a018822743ac862bae1fe9105
-      internalID: -2025177985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_78
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ef5dfa452ad704478afbda4afec2034
-      internalID: 674926738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_79
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64531bd17364f604fa8671136f5a76c4
-      internalID: 1941333556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_80
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f65347baf1af7f46a8d2bb21acfa781
-      internalID: 674166069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: 0x72_DungeonTilesetII_v1.4_81
       rect:
         serializedVersion: 2
@@ -1917,13 +1749,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_104
+      name: weapon_mallet_giant
       rect:
         serializedVersion: 2
         x: 288
         y: 432
         width: 16
-        height: 16
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1938,13 +1770,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_105
+      name: weapon_mallet
       rect:
         serializedVersion: 2
         x: 304
         y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,13 +1791,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_106
+      name: weapon_spikebat
       rect:
         serializedVersion: 2
         x: 320
         y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,13 +1812,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_107
+      name: weapon_mace
       rect:
         serializedVersion: 2
         x: 336
         y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2316,90 +2148,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_123
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c1cd0fab9a9e6b439679247f03437fd
-      internalID: -2015835703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_124
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc8c6e833dc9e844e97107e64a9cdb44
-      internalID: -2092823314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_125
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a25974ecde00974086ba77a70de3db9
-      internalID: 1843384325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_126
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 416
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d63c50a5e548d40459a48eb4f3d2b3ac
-      internalID: -1170985383
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: 0x72_DungeonTilesetII_v1.4_127
       rect:
         serializedVersion: 2
@@ -2694,13 +2442,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_150
+      name: weapon_katana
       rect:
         serializedVersion: 2
         x: 288
         y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2715,13 +2463,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_151
+      name: weapon_thicksword
       rect:
         serializedVersion: 2
         x: 304
         y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2736,13 +2484,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_152
+      name: weapon_massivesword
       rect:
         serializedVersion: 2
         x: 320
         y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2757,13 +2505,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_153
+      name: weapon_axe
       rect:
         serializedVersion: 2
         x: 336
         y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3067,90 +2815,6 @@ TextureImporter:
       bones: []
       spriteID: e9b62f50a5cac7f4fb28121ca3ba7048
       internalID: 1785195085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_169
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 384
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b29eb9e8b4979f04ca2efb0950a92347
-      internalID: -1891238435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_170
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 384
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa8cbb4f2bf919845bd7ff7dcd8ff6ca
-      internalID: -1326876332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_171
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 384
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de0d3c9d3d498b440af8ae0942590f59
-      internalID: 2136910766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_172
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 384
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 563c015a374c4ac4fa82f3f78a36a926
-      internalID: 1556040809
       vertices: []
       indices: 
       edges: []
@@ -3471,13 +3135,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_197
+      name: weapon_machete
       rect:
         serializedVersion: 2
         x: 288
         y: 368
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3492,13 +3156,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_198
+      name: weapon_cleaver
       rect:
         serializedVersion: 2
         x: 304
         y: 368
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3513,13 +3177,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_199
+      name: weapon_rapier
       rect:
         serializedVersion: 2
         x: 320
         y: 368
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3534,13 +3198,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_200
+      name: weapon_twoedgedsword
       rect:
         serializedVersion: 2
         x: 336
         y: 368
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3891,90 +3555,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_217
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 352
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83dc5bb388908b941892e004b7e81ed3
-      internalID: -570762842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_218
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 352
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 332f9a8c77306364b902c445eeaf2447
-      internalID: -193677743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_219
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 352
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb59171e13108c44e90a5923113ffcb4
-      internalID: 913994656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_220
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 352
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa3eabd3540210d4ebd17704325d537d
-      internalID: 1208921698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: 0x72_DungeonTilesetII_v1.4_221
       rect:
         serializedVersion: 2
@@ -4227,13 +3807,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_242
+      name: weapon_goldshortsword
       rect:
         serializedVersion: 2
         x: 288
         y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4248,13 +3828,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_243
+      name: weapon_goldtwohandedsword
       rect:
         serializedVersion: 2
         x: 304
         y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4269,13 +3849,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_244
+      name: weapon_staff_red
       rect:
         serializedVersion: 2
         x: 320
         y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4290,13 +3870,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_245
+      name: weapon_staff_yellow
       rect:
         serializedVersion: 2
         x: 336
         y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4668,69 +4248,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_263
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 320
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3f7ef0718cdc8349a962091428eb467
-      internalID: -1194285913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_264
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 320
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6c516ee28a836a40b48fb341bebea2d
-      internalID: -451165100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_265
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 320
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85addc0e7e6684e4e8a823602469cd85
-      internalID: 347554491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: 0x72_DungeonTilesetII_v1.4_266
       rect:
         serializedVersion: 2
@@ -5025,13 +4542,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_288
+      name: weapon_spear
       rect:
         serializedVersion: 2
         x: 288
         y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5046,13 +4563,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_289
+      name: weapon_arrow
       rect:
         serializedVersion: 2
         x: 304
         y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5067,13 +4584,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_290
+      name: weapon_bow
       rect:
         serializedVersion: 2
         x: 320
         y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5676,7 +5193,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_327
+      name: potion_big_orange
       rect:
         serializedVersion: 2
         x: 288
@@ -5697,7 +5214,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_328
+      name: potion_big_blue
       rect:
         serializedVersion: 2
         x: 304
@@ -5718,7 +5235,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_329
+      name: potion_big_green
       rect:
         serializedVersion: 2
         x: 320
@@ -5739,7 +5256,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_330
+      name: potion_big_yellow
       rect:
         serializedVersion: 2
         x: 336
@@ -6096,7 +5613,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_347
+      name: potion_small_orange
       rect:
         serializedVersion: 2
         x: 288
@@ -6117,7 +5634,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_348
+      name: potion_small_blue
       rect:
         serializedVersion: 2
         x: 304
@@ -6138,7 +5655,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_349
+      name: potion_small_green
       rect:
         serializedVersion: 2
         x: 320
@@ -6159,7 +5676,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_350
+      name: potion_small_yellow
       rect:
         serializedVersion: 2
         x: 336
@@ -6348,7 +5865,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_362
+      name: heart_full
       rect:
         serializedVersion: 2
         x: 288
@@ -6369,7 +5886,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_363
+      name: heart_half
       rect:
         serializedVersion: 2
         x: 304
@@ -6390,7 +5907,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_364
+      name: heart_empty
       rect:
         serializedVersion: 2
         x: 320
@@ -6432,13 +5949,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_382
+      name: coin_0
       rect:
         serializedVersion: 2
         x: 288
-        y: 224
-        width: 16
-        height: 16
+        y: 232
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6448,27 +5965,6 @@ TextureImporter:
       bones: []
       spriteID: 4d94416e12c3444449ca6c0e908ca52c
       internalID: -856961864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_383
-      rect:
-        serializedVersion: 2
-        x: 304
-        y: 224
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ce8acdee7115144d9e5a4c0d5a41b1b
-      internalID: 833883368
       vertices: []
       indices: 
       edges: []
@@ -6726,28 +6222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_404
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 208
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d7b1e61d7851d0b42a60a82bc4c07924
-      internalID: 1791296344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_405
+      name: chest_empty_0
       rect:
         serializedVersion: 2
         x: 304
@@ -6768,7 +6243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_406
+      name: chest_empty_1
       rect:
         serializedVersion: 2
         x: 320
@@ -6789,7 +6264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_407
+      name: chest_empty_2
       rect:
         serializedVersion: 2
         x: 336
@@ -6852,13 +6327,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_410
+      name: crate
       rect:
         serializedVersion: 2
         x: 288
         y: 192
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6873,7 +6348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_411
+      name: chest_full_0
       rect:
         serializedVersion: 2
         x: 304
@@ -6894,7 +6369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_412
+      name: chest_full_1
       rect:
         serializedVersion: 2
         x: 320
@@ -6915,7 +6390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_413
+      name: chest_full_2
       rect:
         serializedVersion: 2
         x: 336
@@ -7104,7 +6579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_438
+      name: skull
       rect:
         serializedVersion: 2
         x: 288
@@ -7125,7 +6600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_439
+      name: chest_trap_0
       rect:
         serializedVersion: 2
         x: 304
@@ -7146,7 +6621,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_440
+      name: chest_trap_1
       rect:
         serializedVersion: 2
         x: 320
@@ -7167,7 +6642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_441
+      name: chest_trap_2
       rect:
         serializedVersion: 2
         x: 336
@@ -7985,6 +7460,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: coin_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b481394d41bc4e8f22eb1016ed6b3
+      internalID: 751084473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dadc94d179e1c43b90644e296035ff
+      internalID: 336950736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66c3a61fca640419ebfe01d0b2f173
+      internalID: -989493987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -7996,18 +7534,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      potion_small_blue: -1048232097
       0x72_DungeonTilesetII_v1.4_477: 1740324040
       0x72_DungeonTilesetII_v1.4_178: -610966667
       floor_spikes_2: 156070003
       player1_1: 1780963291
+      chest_empty_0: -1085179749
       0x72_DungeonTilesetII_v1.4_359: -671801268
       0x72_DungeonTilesetII_v1.4_452: -1597070361
       0x72_DungeonTilesetII_v1.4_287: -771158465
       0x72_DungeonTilesetII_v1.4_133: -455036373
+      weapon_arrow: 683719596
       0x72_DungeonTilesetII_v1.4_266: -1577898950
       0x72_DungeonTilesetII_v1.4_42: 1089342657
       0x72_DungeonTilesetII_v1.4_173: -111708684
       0x72_DungeonTilesetII_v1.4_314: -1989109492
+      potion_big_yellow: -768031160
       0x72_DungeonTilesetII_v1.4_387: -537971687
       player2_3: -885381148
       0x72_DungeonTilesetII_v1.4_513: -1995759490
@@ -8018,8 +7560,9 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_237: 417397330
       player6_5: -270720202
       0x72_DungeonTilesetII_v1.4_381: 14556712
-      0x72_DungeonTilesetII_v1.4_82: -1052541127
       player5_0: 855439123
+      0x72_DungeonTilesetII_v1.4_82: -1052541127
+      weapon_staff_red: 618181713
       0x72_DungeonTilesetII_v1.4_408: 1945979646
       0x72_DungeonTilesetII_v1.4_524: 771709665
       0x72_DungeonTilesetII_v1.4_267: 1319285746
@@ -8042,6 +7585,7 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_433: 1638218436
       wall_fronttop_middle: -523162234
       0x72_DungeonTilesetII_v1.4_226: -1287821217
+      potion_small_yellow: 182463987
       0x72_DungeonTilesetII_v1.4_58: 713009031
       player3_0: 1370107281
       0x72_DungeonTilesetII_v1.4_145: 2121655276
@@ -8063,16 +7607,16 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_269: 129674796
       column_free_bot: 2001443052
       player5_3: -1845596402
+      weapon_thicksword: -1676979888
       0x72_DungeonTilesetII_v1.4_356: -725949197
       0x72_DungeonTilesetII_v1.4_432: -1733067837
       0x72_DungeonTilesetII_v1.4_34: 641132388
       0x72_DungeonTilesetII_v1.4_509: 1458036823
       0x72_DungeonTilesetII_v1.4_56: -468295223
+      chest_full_1: -389588665
       floor_4: -298177311
       0x72_DungeonTilesetII_v1.4_361: -326329974
-      0x72_DungeonTilesetII_v1.4_410: -1949116716
-      0x72_DungeonTilesetII_v1.4_200: 886848034
-      0x72_DungeonTilesetII_v1.4_439: -621470300
+      weapon_cleaver: -156284275
       0x72_DungeonTilesetII_v1.4_147: -2078084219
       0x72_DungeonTilesetII_v1.4_497: -1584811697
       0x72_DungeonTilesetII_v1.4_175: -891806986
@@ -8086,9 +7630,8 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_240: 909927218
       0x72_DungeonTilesetII_v1.4_418: 1314071682
       0x72_DungeonTilesetII_v1.4_518: -2038794260
-      0x72_DungeonTilesetII_v1.4_440: -1119969125
-      0x72_DungeonTilesetII_v1.4_349: 1504386084
-      0x72_DungeonTilesetII_v1.4_329: 77674130
+      weapon_axe: -1902125586
+      weapon_mace: 2091472651
       fountain_red_bot_1: 970487505
       0x72_DungeonTilesetII_v1.4_171: 2136910766
       0x72_DungeonTilesetII_v1.4_391: 1617847926
@@ -8097,26 +7640,28 @@ TextureImporter:
       wall_right_top_end: 1337924046
       0x72_DungeonTilesetII_v1.4_404: 1791296344
       wall_left_top_end: 410593083
-      0x72_DungeonTilesetII_v1.4_153: -1902125586
+      weapon_bow: 329869907
+      weapon_massivesword: -393303381
       player0_8: -608687538
-      0x72_DungeonTilesetII_v1.4_23: 490031276
       0x72_DungeonTilesetII_v1.4_409: -1584030955
       0x72_DungeonTilesetII_v1.4_484: -1289803606
       0x72_DungeonTilesetII_v1.4_123: -2015835703
       orc_giant_0: -2109120292
-      0x72_DungeonTilesetII_v1.4_53: -1862783095
       0x72_DungeonTilesetII_v1.4_369: 1071058575
       0x72_DungeonTilesetII_v1.4_308: 805104177
       0x72_DungeonTilesetII_v1.4_367: 986698621
       0x72_DungeonTilesetII_v1.4_310: 277934016
       demon_giant_5: -306033985
+      crate: -1949116716
       0x72_DungeonTilesetII_v1.4_520: 1084968699
       0x72_DungeonTilesetII_v1.4_54: 895316616
-      0x72_DungeonTilesetII_v1.4_169: -1891238435
+      potion_big_orange: -1158560280
       player0_0: -1144836858
-      undead_giant_2: 951427926
       columns_free_middle: -2031572471
+      0x72_DungeonTilesetII_v1.4_169: -1891238435
+      undead_giant_2: 951427926
       0x72_DungeonTilesetII_v1.4_30: 696512663
+      coin_3: -989493987
       player5_5: 1371394506
       undead_giant_5: -2097204085
       0x72_DungeonTilesetII_v1.4_322: -231153810
@@ -8131,21 +7676,24 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_393: -1160920657
       0x72_DungeonTilesetII_v1.4_321: -295555087
       0x72_DungeonTilesetII_v1.4_472: 1124877463
+      coin_1: 393732360
+      weapon_dagger: 490031276
       player6_0: 1069856852
       wall_banner_green: -166040714
       floor_ladder: -718640289
       0x72_DungeonTilesetII_v1.4_192: -631226918
       player3_6: -1383826704
       lever_right: -1780369084
+      chest_trap_0: -621470300
       0x72_DungeonTilesetII_v1.4_421: -1016573234
       player0_3: -289922753
       0x72_DungeonTilesetII_v1.4_487: 262910209
       player4_5: 717071825
       0x72_DungeonTilesetII_v1.4_437: 1989158406
-      wall_botleft_top: 1855443397
       fountain_red_bot_3: -1565046422
+      floor_6: 1998235577
+      wall_botleft_top: 1855443397
       0x72_DungeonTilesetII_v1.4_311: -2092017674
-      0x72_DungeonTilesetII_v1.4_382: -856961864
       0x72_DungeonTilesetII_v1.4_81: -1998682180
       0x72_DungeonTilesetII_v1.4_238: 1372339776
       0x72_DungeonTilesetII_v1.4_284: 366589770
@@ -8155,17 +7703,15 @@ TextureImporter:
       wall_front2: 775894340
       0x72_DungeonTilesetII_v1.4_88: -929239647
       0x72_DungeonTilesetII_v1.4_102: -1932014485
-      0x72_DungeonTilesetII_v1.4_150: -1507120158
       0x72_DungeonTilesetII_v1.4_248: -132586078
       lever_left: 1305298025
       0x72_DungeonTilesetII_v1.4_193: -412459748
       0x72_DungeonTilesetII_v1.4_124: -2092823314
+      coin_2: 336950736
       undead_giant_6: -1500922768
       0x72_DungeonTilesetII_v1.4_399: 988081760
       floor_0: 2051868569
       wall_left_top: -871198786
-      floor_6: 1998235577
-      0x72_DungeonTilesetII_v1.4_441: 931581989
       player5_7: -860194802
       0x72_DungeonTilesetII_v1.4_422: -537864422
       0x72_DungeonTilesetII_v1.4_101: 1109856982
@@ -8174,7 +7720,7 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_241: -586180210
       0x72_DungeonTilesetII_v1.4_499: -111110010
       wall_botleft_bottom: -2033966534
-      0x72_DungeonTilesetII_v1.4_362: 849772839
+      weapon_katana: -1507120158
       0x72_DungeonTilesetII_v1.4_272: -440464854
       0x72_DungeonTilesetII_v1.4_386: 1333806329
       0x72_DungeonTilesetII_v1.4_370: 2090939430
@@ -8189,15 +7735,13 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_395: -1527238822
       player4_3: 1378711835
       player1_3: 1687157904
-      0x72_DungeonTilesetII_v1.4_244: 618181713
+      0x72_DungeonTilesetII_v1.4_523: -83561025
       0x72_DungeonTilesetII_v1.4_43: 908929344
       player4_2: 1265209307
-      0x72_DungeonTilesetII_v1.4_523: -83561025
       0x72_DungeonTilesetII_v1.4_77: -2025177985
       0x72_DungeonTilesetII_v1.4_444: 1684807568
       0x72_DungeonTilesetII_v1.4_59: 1443639990
       floor_5: 883820595
-      0x72_DungeonTilesetII_v1.4_52: 566061927
       0x72_DungeonTilesetII_v1.4_495: 1632563577
       player2_4: 512358006
       0x72_DungeonTilesetII_v1.4_268: -432763203
@@ -8205,7 +7749,6 @@ TextureImporter:
       player2_5: 1095955822
       player7_0: -1390529958
       wall_topright_top: 694675807
-      0x72_DungeonTilesetII_v1.4_406: -1892589521
       player7_3: 1710279144
       fountain_top_3: 1068592352
       0x72_DungeonTilesetII_v1.4_473: 510586162
@@ -8217,25 +7760,27 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_323: 975307455
       fountain_red_face_3: 1529237210
       0x72_DungeonTilesetII_v1.4_483: -2107860572
+      potion_small_orange: -2073850898
       undead_giant_1: 445731460
       player2_6: 1972747907
       player3_4: 1438787791
       player7_8: 864166997
       undead_giant_3: 1497193722
       0x72_DungeonTilesetII_v1.4_334: -950025128
-      0x72_DungeonTilesetII_v1.4_413: 735292694
       0x72_DungeonTilesetII_v1.4_317: 1242547035
       wall_right_top: 1889657366
+      weapon_spear: -1640265281
       0x72_DungeonTilesetII_v1.4_25: 128978969
       0x72_DungeonTilesetII_v1.4_521: -731942359
       0x72_DungeonTilesetII_v1.4_172: 1556040809
       0x72_DungeonTilesetII_v1.4_103: -1675125313
       0x72_DungeonTilesetII_v1.4_196: -932311197
-      0x72_DungeonTilesetII_v1.4_199: -1880182200
-      player5_1: -1087617244
       0x72_DungeonTilesetII_v1.4_434: 1024240960
+      player5_1: -1087617244
+      potion_big_green: 77674130
       fountain_blue_bot_2: 944727607
       0x72_DungeonTilesetII_v1.4_373: -1439198168
+      heart_half: 1539367459
       0x72_DungeonTilesetII_v1.4_61: 547287295
       0x72_DungeonTilesetII_v1.4_446: 229421631
       0x72_DungeonTilesetII_v1.4_336: -324372180
@@ -8243,21 +7788,18 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_417: 1192221045
       0x72_DungeonTilesetII_v1.4_354: -1857025856
       wall_topleft_top: 1284378935
-      0x72_DungeonTilesetII_v1.4_412: -389588665
       player1_2: -1475317065
       player0_1: -1075670670
-      0x72_DungeonTilesetII_v1.4_104: 932240627
       0x72_DungeonTilesetII_v1.4_305: 2058956018
       player0_6: 404377774
-      0x72_DungeonTilesetII_v1.4_347: -2073850898
-      0x72_DungeonTilesetII_v1.4_242: -107754337
+      weapon_twoedgedsword: 886848034
       0x72_DungeonTilesetII_v1.4_419: 694927722
       0x72_DungeonTilesetII_v1.4_239: -1647795374
-      0x72_DungeonTilesetII_v1.4_330: -768031160
+      0x72_DungeonTilesetII_v1.4_365: -1714476133
       0x72_DungeonTilesetII_v1.4_80: 674166069
       0x72_DungeonTilesetII_v1.4_371: 1060265203
-      0x72_DungeonTilesetII_v1.4_365: -1714476133
       wall_banner_blue: -1418505869
+      button_red_in: -1856956659
       0x72_DungeonTilesetII_v1.4_423: 300187642
       player2_1: 1621400275
       0x72_DungeonTilesetII_v1.4_351: -767971178
@@ -8265,15 +7807,14 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_177: 1211699756
       0x72_DungeonTilesetII_v1.4_485: -1467570146
       0x72_DungeonTilesetII_v1.4_320: 1739137099
-      0x72_DungeonTilesetII_v1.4_327: -1158560280
+      weapon_goldshortsword: -107754337
       0x72_DungeonTilesetII_v1.4_466: 828959570
       demon_giant_6: 349241750
-      button_red_in: -1856956659
       0x72_DungeonTilesetII_v1.4_41: 1871051553
       0x72_DungeonTilesetII_v1.4_491: 115641473
+      skull: -785438129
       orc_giant_7: -1571275589
       0x72_DungeonTilesetII_v1.4_479: -153615196
-      0x72_DungeonTilesetII_v1.4_197: -2123454717
       0x72_DungeonTilesetII_v1.4_97: 1492639865
       0x72_DungeonTilesetII_v1.4_194: -587671901
       0x72_DungeonTilesetII_v1.4_125: 1843384325
@@ -8283,16 +7824,14 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_27: -1415233679
       0x72_DungeonTilesetII_v1.4_427: 2027602305
       player6_1: -1565724276
-      0x72_DungeonTilesetII_v1.4_411: 1408284845
       fountain_red_bot_2: 701519811
       player1_5: 272561128
-      0x72_DungeonTilesetII_v1.4_364: 316841353
       0x72_DungeonTilesetII_v1.4_357: 624940368
       0x72_DungeonTilesetII_v1.4_397: -1137112488
       0x72_DungeonTilesetII_v1.4_294: 1516718453
       0x72_DungeonTilesetII_v1.4_435: 2124237408
       0x72_DungeonTilesetII_v1.4_45: -1607743369
-      0x72_DungeonTilesetII_v1.4_106: -1731439059
+      potion_small_green: 1504386084
       0x72_DungeonTilesetII_v1.4_366: 1332113474
       0x72_DungeonTilesetII_v1.4_144: 1967130600
       0x72_DungeonTilesetII_v1.4_85: -1252367406
@@ -8302,6 +7841,7 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_31: 744157188
       0x72_DungeonTilesetII_v1.4_352: 1796757773
       0x72_DungeonTilesetII_v1.4_315: -235259203
+      weapon_machete: -2123454717
       0x72_DungeonTilesetII_v1.4_488: 2044822118
       0x72_DungeonTilesetII_v1.4_246: 915917957
       wall_front3: 1912851980
@@ -8320,25 +7860,28 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_227: 645983570
       0x72_DungeonTilesetII_v1.4_235: -1530273737
       0x72_DungeonTilesetII_v1.4_83: 334183510
-      0x72_DungeonTilesetII_v1.4_107: 2091472651
       undead_giant_0: -1439646401
       0x72_DungeonTilesetII_v1.4_460: -1915535686
-      0x72_DungeonTilesetII_v1.4_492: 658431981
       orc_giant_4: -1606777105
+      0x72_DungeonTilesetII_v1.4_492: 658431981
+      weapon_staff_yellow: -331895282
+      weapon_shortsword_2: 566061927
       0x72_DungeonTilesetII_v1.4_462: 159439642
       player7_7: -678903197
       0x72_DungeonTilesetII_v1.4_50: 426361185
       wall_right_bottom: -782405696
-      player1_6: -1607205266
       column_wall_top: -1294797483
+      player1_6: -1607205266
       0x72_DungeonTilesetII_v1.4_129: 1961983725
       0x72_DungeonTilesetII_v1.4_505: -1555325440
+      chest_empty_2: 340716092
       0x72_DungeonTilesetII_v1.4_222: 1732378288
       fountain_red_face_2: 54016368
       floor_7: -47148357
       0x72_DungeonTilesetII_v1.4_195: 888247181
       0x72_DungeonTilesetII_v1.4_142: 672367398
       button_blue_out: 275789186
+      chest_full_0: 1408284845
       0x72_DungeonTilesetII_v1.4_141: -1808133157
       0x72_DungeonTilesetII_v1.4_376: 1304130227
       0x72_DungeonTilesetII_v1.4_28: -2018910028
@@ -8361,6 +7904,7 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_515: 1297643250
       0x72_DungeonTilesetII_v1.4_87: -156737378
       0x72_DungeonTilesetII_v1.4_189: 1328122317
+      weapon_spikebat: -1731439059
       0x72_DungeonTilesetII_v1.4_375: -205662533
       0x72_DungeonTilesetII_v1.4_496: -1470464993
       0x72_DungeonTilesetII_v1.4_78: 674926738
@@ -8372,6 +7916,7 @@ TextureImporter:
       wall_leftjunction_top: 1225002674
       wall_rightjunction_bottom: -1981957892
       0x72_DungeonTilesetII_v1.4_403: -1532877155
+      weapon_mallet: 250977138
       0x72_DungeonTilesetII_v1.4_170: -1326876332
       0x72_DungeonTilesetII_v1.4_385: 1160690915
       0x72_DungeonTilesetII_v1.4_247: 1203280232
@@ -8380,39 +7925,35 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_389: -432786878
       fountain_top_1: -657302030
       fountain_blue_face_3: -1615271025
-      0x72_DungeonTilesetII_v1.4_363: 1539367459
+      potion_big_blue: 529293823
+      wall_left_bottom: -1474900643
       0x72_DungeonTilesetII_v1.4_6: 2102467018
       0x72_DungeonTilesetII_v1.4_503: -1768810476
       wall_front_rightend: 378309244
       fountain_blue_bot_1: 2063092558
+      heart_empty: 316841353
       0x72_DungeonTilesetII_v1.4_130: 806437252
       player3_2: 435724573
-      wall_left_bottom: -1474900643
       player4_1: -341178750
+      chest_trap_1: -1119969125
       0x72_DungeonTilesetII_v1.4_445: -856117209
-      0x72_DungeonTilesetII_v1.4_290: 329869907
       0x72_DungeonTilesetII_v1.4_219: 913994656
+      chest_full_2: 735292694
       0x72_DungeonTilesetII_v1.4_415: -420363450
       0x72_DungeonTilesetII_v1.4_286: 991492063
       0x72_DungeonTilesetII_v1.4_335: -1330112934
-      0x72_DungeonTilesetII_v1.4_51: 594119081
       0x72_DungeonTilesetII_v1.4_86: -1093820400
       0x72_DungeonTilesetII_v1.4_127: 1086072907
-      0x72_DungeonTilesetII_v1.4_289: 683719596
-      0x72_DungeonTilesetII_v1.4_243: -864154095
       demon_giant_4: 824108097
-      wall_banner_red: -1009123505
-      0x72_DungeonTilesetII_v1.4_438: -785438129
-      0x72_DungeonTilesetII_v1.4_424: 1146367206
       floor_hole: 655232810
+      wall_banner_red: -1009123505
+      0x72_DungeonTilesetII_v1.4_424: 1146367206
       0x72_DungeonTilesetII_v1.4_428: 1830298716
       0x72_DungeonTilesetII_v1.4_443: 1701539943
       0x72_DungeonTilesetII_v1.4_467: 2022008685
       player4_8: 1187970251
       orc_giant_1: 321082679
-      0x72_DungeonTilesetII_v1.4_0: 393732360
       0x72_DungeonTilesetII_v1.4_223: 1060867853
-      0x72_DungeonTilesetII_v1.4_350: 182463987
       0x72_DungeonTilesetII_v1.4_456: 1885647116
       0x72_DungeonTilesetII_v1.4_474: 2044817281
       0x72_DungeonTilesetII_v1.4_353: 823608628
@@ -8422,20 +7963,19 @@ TextureImporter:
       player1_7: -1500814318
       demon_giant_3: 1625767398
       0x72_DungeonTilesetII_v1.4_306: 1548730624
-      0x72_DungeonTilesetII_v1.4_288: -1640265281
-      0x72_DungeonTilesetII_v1.4_198: -156284275
       0x72_DungeonTilesetII_v1.4_96: 441500246
       0x72_DungeonTilesetII_v1.4_134: 979129161
       player7_5: -1106707996
       0x72_DungeonTilesetII_v1.4_48: 1898452319
       0x72_DungeonTilesetII_v1.4_486: 939771229
-      0x72_DungeonTilesetII_v1.4_405: -1085179749
+      coin_0: -856961864
       player3_8: 1273238441
       player0_4: 1354694172
       0x72_DungeonTilesetII_v1.4_265: 347554491
       player1_8: 903756754
       player6_8: -679335944
       0x72_DungeonTilesetII_v1.4_519: -439233885
+      weapon_goldtwohandedsword: -864154095
       0x72_DungeonTilesetII_v1.4_332: -1484217840
       0x72_DungeonTilesetII_v1.4_469: 1093657244
       0x72_DungeonTilesetII_v1.4_33: 1453865508
@@ -8457,10 +7997,9 @@ TextureImporter:
       wall_rightjunction_top: 1265264594
       player1_0: -373559543
       0x72_DungeonTilesetII_v1.4_24: 577293205
-      0x72_DungeonTilesetII_v1.4_348: -1048232097
       demon_giant_0: -810373193
+      weapon_shortsword_1: 594119081
       player5_4: 1795594025
-      0x72_DungeonTilesetII_v1.4_407: 340716092
       0x72_DungeonTilesetII_v1.4_26: 826027260
       wall_front1: -1695307433
       0x72_DungeonTilesetII_v1.4_522: 1323173964
@@ -8474,20 +8013,22 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_378: 71911805
       0x72_DungeonTilesetII_v1.4_220: 1208921698
       0x72_DungeonTilesetII_v1.4_372: 996287900
-      0x72_DungeonTilesetII_v1.4_245: -331895282
       0x72_DungeonTilesetII_v1.4_401: -1661237656
       orc_giant_5: 1757811301
+      chest_empty_1: -1892589521
       0x72_DungeonTilesetII_v1.4_442: 1430254515
-      0x72_DungeonTilesetII_v1.4_151: -1676979888
       0x72_DungeonTilesetII_v1.4_190: 967575362
       0x72_DungeonTilesetII_v1.4_507: -1600267746
       player1_4: 1622719997
       0x72_DungeonTilesetII_v1.4_429: 872858425
+      weapon_shortsword_3: -1862783095
       0x72_DungeonTilesetII_v1.4_482: -410256635
       0x72_DungeonTilesetII_v1.4_426: -1568790603
+      weapon_rapier: -1880182200
       0x72_DungeonTilesetII_v1.4_149: 1525368640
       0x72_DungeonTilesetII_v1.4_191: -1024896511
       0x72_DungeonTilesetII_v1.4_264: -451165100
+      heart_full: 849772839
       0x72_DungeonTilesetII_v1.4_318: -508553913
       button_blue_in: -86885225
       ooze_floor: 993243662
@@ -8496,14 +8037,14 @@ TextureImporter:
       wall_fronttop_leftend: 2073718164
       wall_fronttop_rightend: -1141638440
       0x72_DungeonTilesetII_v1.4_55: 684005775
-      0x72_DungeonTilesetII_v1.4_105: 250977138
-      0x72_DungeonTilesetII_v1.4_152: -393303381
-      0x72_DungeonTilesetII_v1.4_234: -2081059338
       floor_spikes_3: -984400518
+      0x72_DungeonTilesetII_v1.4_234: -2081059338
       player3_5: -223202195
+      weapon_mallet_giant: 932240627
       undead_giant_4: -1677711147
       player4_7: 585855416
       0x72_DungeonTilesetII_v1.4_501: 2098427555
+      chest_trap_2: 931581989
       0x72_DungeonTilesetII_v1.4_7: 925703501
       0x72_DungeonTilesetII_v1.4_46: -1733266449
       0x72_DungeonTilesetII_v1.4_436: -1849014986
@@ -8512,7 +8053,6 @@ TextureImporter:
       player6_6: 1075695867
       wall_topright_top_end: 1272583385
       0x72_DungeonTilesetII_v1.4_263: -1194285913
-      0x72_DungeonTilesetII_v1.4_328: 529293823
       0x72_DungeonTilesetII_v1.4_493: -1063220106
       0x72_DungeonTilesetII_v1.4_450: 1073690810
       0x72_DungeonTilesetII_v1.4_464: 2111022081
