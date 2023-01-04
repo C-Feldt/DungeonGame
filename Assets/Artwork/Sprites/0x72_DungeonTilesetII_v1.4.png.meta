@@ -3114,7 +3114,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0x72_DungeonTilesetII_v1.4_187
+      name: dotted_line
       rect:
         serializedVersion: 2
         x: 96
@@ -7238,23 +7238,23 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_42: 1089342657
       fairy_2: 658431981
       potion_big_yellow: -768031160
-      player2_3: -885381148
-      0x72_DungeonTilesetII_v1.4_513: -1995759490
-      player6_7: -403735087
-      wall_bottomright_top: 186561282
-      0x72_DungeonTilesetII_v1.4_471: 1420590713
-      0x72_DungeonTilesetII_v1.4_478: 125617492
-      0x72_DungeonTilesetII_v1.4_237: 417397330
+      demon_mini_4: -1252367406
       player6_5: -270720202
-      0x72_DungeonTilesetII_v1.4_381: 14556712
-      player5_0: 855439123
-      weapon_staff_red: 618181713
+      player6_7: -403735087
+      player2_3: -885381148
+      0x72_DungeonTilesetII_v1.4_471: 1420590713
       undead_mini_7: 641132388
+      0x72_DungeonTilesetII_v1.4_237: 417397330
+      0x72_DungeonTilesetII_v1.4_513: -1995759490
+      0x72_DungeonTilesetII_v1.4_381: 14556712
+      weapon_staff_red: 618181713
+      player5_0: 855439123
       undead_reg_1: 1732378288
+      wall_bottomright_top: 186561282
       undead_alive_2: 645983570
       0x72_DungeonTilesetII_v1.4_408: 1945979646
       0x72_DungeonTilesetII_v1.4_524: 771709665
-      demon_mini_4: -1252367406
+      0x72_DungeonTilesetII_v1.4_478: 125617492
       door_closed_top_left: -1989109492
       player7_2: -1172328070
       player2_2: -935865578
@@ -7341,18 +7341,18 @@ TextureImporter:
       potion_big_orange: -1158560280
       demon_ribbed_3: 1192221045
       demon_teeth_7: -580423947
-      player0_0: -1144836858
-      columns_free_middle: -2031572471
       0x72_DungeonTilesetII_v1.4_169: -1891238435
+      player0_0: -1144836858
       undead_giant_2: 951427926
+      columns_free_middle: -2031572471
       coin_3: -989493987
       demon_mini_2: 334183510
       player5_5: 1371394506
       undead_giant_5: -2097204085
       fairy_4: -2135265164
       0x72_DungeonTilesetII_v1.4_322: -231153810
-      0x72_DungeonTilesetII_v1.4_324: -98081216
       orc_masked_1: 1319285746
+      0x72_DungeonTilesetII_v1.4_324: -98081216
       fountain_blue_bot_3: -1295428010
       undead_alive_0: 930063427
       0x72_DungeonTilesetII_v1.4_360: 965017083
@@ -7377,9 +7377,9 @@ TextureImporter:
       player4_5: 717071825
       door_open_top_left: 1242547035
       0x72_DungeonTilesetII_v1.4_437: 1989158406
+      wall_botleft_top: 1855443397
       fountain_red_bot_3: -1565046422
       floor_6: 1998235577
-      wall_botleft_top: 1855443397
       fountain_blue_face_2: 1052002023
       0x72_DungeonTilesetII_v1.4_238: 1372339776
       0x72_DungeonTilesetII_v1.4_284: 366589770
@@ -7481,28 +7481,28 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_239: -1647795374
       0x72_DungeonTilesetII_v1.4_365: -1714476133
       0x72_DungeonTilesetII_v1.4_80: 674166069
-      0x72_DungeonTilesetII_v1.4_371: 1060265203
       wall_banner_blue: -1418505869
-      button_red_in: -1856956659
       0x72_DungeonTilesetII_v1.4_423: 300187642
+      0x72_DungeonTilesetII_v1.4_371: 1060265203
+      button_red_in: -1856956659
       demon_ribbed_1: -420363450
       player2_1: 1621400275
-      0x72_DungeonTilesetII_v1.4_517: 1730844741
+      demon_ribbed_5: 694927722
       0x72_DungeonTilesetII_v1.4_320: 1739137099
       0x72_DungeonTilesetII_v1.4_485: -1467570146
-      demon_ribbed_5: 694927722
-      ghost_5: 1053179697
+      0x72_DungeonTilesetII_v1.4_517: 1730844741
       weapon_goldshortsword: -107754337
       orc_masked_3: 129674796
       demon_giant_6: 349241750
       blob_slime_1: -610966667
       0x72_DungeonTilesetII_v1.4_41: 1871051553
       skull: -785438129
+      ghost_5: 1053179697
       orc_giant_7: -1571275589
       0x72_DungeonTilesetII_v1.4_479: -153615196
       0x72_DungeonTilesetII_v1.4_97: 1492639865
-      0x72_DungeonTilesetII_v1.4_194: -587671901
       undead_reg_2: 1060867853
+      0x72_DungeonTilesetII_v1.4_194: -587671901
       0x72_DungeonTilesetII_v1.4_125: 1843384325
       floor_stairs: 1267361879
       floor_2: 1781519880
@@ -7527,14 +7527,14 @@ TextureImporter:
       orc_reg_2: 674181726
       0x72_DungeonTilesetII_v1.4_488: 2044822118
       0x72_DungeonTilesetII_v1.4_246: 915917957
-      wall_front3: 1912851980
       fairy_0: -857125434
       player0_5: 1325801947
-      player6_2: -1687889871
-      fountain_red_face_1: 962415781
       door_closed_top_right: -235259203
+      fountain_red_face_1: 962415781
+      player6_2: -1687889871
       undead_giant_7: -1898873203
       0x72_DungeonTilesetII_v1.4_217: -570762842
+      wall_front3: 1912851980
       0x72_DungeonTilesetII_v1.4_430: -1689069323
       player0_2: -877294499
       player3_1: 1634279579
@@ -7551,8 +7551,8 @@ TextureImporter:
       player7_7: -678903197
       0x72_DungeonTilesetII_v1.4_50: 426361185
       wall_right_bottom: -782405696
-      column_wall_top: -1294797483
       player1_6: -1607205266
+      column_wall_top: -1294797483
       blob_mud_1: -770344256
       0x72_DungeonTilesetII_v1.4_505: -1555325440
       chest_empty_2: 340716092
@@ -7580,7 +7580,6 @@ TextureImporter:
       fairy_5: 1632563577
       orc_tribal_3: -1857025856
       0x72_DungeonTilesetII_v1.4_146: 748608954
-      0x72_DungeonTilesetII_v1.4_187: -580610134
       0x72_DungeonTilesetII_v1.4_374: 1965176712
       door_wall_frame_left: 1516718453
       0x72_DungeonTilesetII_v1.4_476: -14856655
@@ -7709,6 +7708,7 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_426: -1568790603
       weapon_rapier: -1880182200
       0x72_DungeonTilesetII_v1.4_149: 1525368640
+      dotted_line: -580610134
       0x72_DungeonTilesetII_v1.4_191: -1024896511
       0x72_DungeonTilesetII_v1.4_264: -451165100
       heart_full: 849772839
