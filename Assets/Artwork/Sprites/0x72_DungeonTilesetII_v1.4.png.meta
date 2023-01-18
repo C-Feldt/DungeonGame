@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -7219,7 +7219,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ghost_2: 1961983725
+      player6_4: 1395331669
       orc_mini_2: -468295223
       demon_ribbed_2: -1728570426
       potion_small_blue: -1048232097
@@ -7238,19 +7238,19 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_42: 1089342657
       fairy_2: 658431981
       potion_big_yellow: -768031160
+      player2_3: -885381148
+      0x72_DungeonTilesetII_v1.4_513: -1995759490
+      undead_mini_7: 641132388
+      wall_bottomright_top: 186561282
+      0x72_DungeonTilesetII_v1.4_471: 1420590713
+      0x72_DungeonTilesetII_v1.4_237: 417397330
       demon_mini_4: -1252367406
       player6_5: -270720202
       player6_7: -403735087
-      player2_3: -885381148
-      0x72_DungeonTilesetII_v1.4_471: 1420590713
-      undead_mini_7: 641132388
-      0x72_DungeonTilesetII_v1.4_237: 417397330
-      0x72_DungeonTilesetII_v1.4_513: -1995759490
-      0x72_DungeonTilesetII_v1.4_381: 14556712
       weapon_staff_red: 618181713
       player5_0: 855439123
+      0x72_DungeonTilesetII_v1.4_381: 14556712
       undead_reg_1: 1732378288
-      wall_bottomright_top: 186561282
       undead_alive_2: 645983570
       0x72_DungeonTilesetII_v1.4_408: 1945979646
       0x72_DungeonTilesetII_v1.4_524: 771709665
@@ -7341,10 +7341,10 @@ TextureImporter:
       potion_big_orange: -1158560280
       demon_ribbed_3: 1192221045
       demon_teeth_7: -580423947
-      0x72_DungeonTilesetII_v1.4_169: -1891238435
       player0_0: -1144836858
-      undead_giant_2: 951427926
       columns_free_middle: -2031572471
+      undead_giant_2: 951427926
+      0x72_DungeonTilesetII_v1.4_169: -1891238435
       coin_3: -989493987
       demon_mini_2: 334183510
       player5_5: 1371394506
@@ -7377,9 +7377,9 @@ TextureImporter:
       player4_5: 717071825
       door_open_top_left: 1242547035
       0x72_DungeonTilesetII_v1.4_437: 1989158406
-      wall_botleft_top: 1855443397
       fountain_red_bot_3: -1565046422
       floor_6: 1998235577
+      wall_botleft_top: 1855443397
       fountain_blue_face_2: 1052002023
       0x72_DungeonTilesetII_v1.4_238: 1372339776
       0x72_DungeonTilesetII_v1.4_284: 366589770
@@ -7745,8 +7745,8 @@ TextureImporter:
       0x72_DungeonTilesetII_v1.4_450: 1073690810
       column_wall_middle: 421524062
       player4_6: -550974038
+      ghost_2: 1961983725
       0x72_DungeonTilesetII_v1.4_325: -264381196
-      player6_4: 1395331669
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
